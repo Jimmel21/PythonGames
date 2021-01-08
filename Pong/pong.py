@@ -37,8 +37,8 @@ ball.shape("square")
 ball.color("white") 
 ball.penup() #do not draw line while moving 
 ball.goto(0, 0)
-balldx = 0.1
-balldy = -0.1
+balldx = 0.21
+balldy = -0.21
 
 #Pen 
 pen = turtle.Turtle()
